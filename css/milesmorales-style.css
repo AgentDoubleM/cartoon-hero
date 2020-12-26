@@ -1,11 +1,17 @@
 body{
-	background-color: navy;
+	margin: 0;
 }
 
-h1{
-	
+header{
+	color: navy;
+	text-align: center;
 }
 
-h2{
-	
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
 }
